@@ -1,15 +1,14 @@
 # Programming Foundations: Beyond the Fundamentals. 
-# [Course Certificate:]()
+# [Course Certificate](https://www.linkedin.com/learning/certificates/d899fcdea4c4c9980bcd42081b4f3d33e41d9183bf8a8eecd00644648f454ef1)
 
 ### Collection:
 - Grouping related mulitple items togather. (Organize related data)
 - Uses code structure to indicate that multiple pieces of data are related. 
 - Avoids creating a potentially huge number of variables to track within the code. 
 - Offers simplified syntax. 
-=> Lists, Dictionaries, Tuple = immutable data in python
+- Lists, Dictionaries, Tuple = immutable data in python
+- index numbering starts at 0 not at 1. 
 
-=> index numbering starts at 0 not at 1. 
-=> 
 ### Iteration:
 - Repeat the same prosedure multiple times until it reaches a specified end point the => loops
 - Specify the data
@@ -28,9 +27,8 @@
 ### Python Frameworks: 
 - Django
 - Flask
-
-=> jQuery: JS library. 
-=> Angular, React, Vue: Js Frameworks
+- jQuery: JS library. 
+- Angular, React, Vue: Js Frameworks
 
 ### String is a collection of characters. 
 - Regular expressions: \d for digits ...
