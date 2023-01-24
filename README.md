@@ -3,8 +3,8 @@
 ### This learning path consists of three Courses:
 
 - [Introduction to Career Skills in Software Development.](!/Introduction/Course1.md)  
-- [Programming Foundations: Fundamentals.](!/Programming Fundamentals/Course2.md)
-- [Programming Foundations: Beyond the Fundamentals.](!/Beyond Fundamentals/Course3.md) 
+- [Programming Foundations: Fundamentals.](!/ProgrammingFundamentals/Course2.md)
+- [Programming Foundations: Beyond the Fundamentals.](!/BeyondFundamentals/Course3.md) 
 
 
 
