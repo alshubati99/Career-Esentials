@@ -1,4 +1,4 @@
-# [Course Certificate](https://www.linkedin.com/learning/certificates/41173a6a05a48fc41737efff4af6f8a72d39de485d498f7355b0e77a264ab3ad?u=60693444)
+# [*Course Certificate*](https://www.linkedin.com/learning/certificates/41173a6a05a48fc41737efff4af6f8a72d39de485d498f7355b0e77a264ab3ad?u=60693444)
 
 ### What does a programmer do?
 - Design develop and test software. 
@@ -43,7 +43,7 @@
 4. Coding: longest phase. 
 5. Testing: to ensure the reliablity. 
 6. Deployment: the program is already available for customers. 
-7 Maintaining: updates or changes done to software.
+7. Maintaining: updates or changes done to software.
 ### Development Team: 
 - Business stakeholder. 
 - Product Manager (PM).
